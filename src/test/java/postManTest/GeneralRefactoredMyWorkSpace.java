@@ -52,6 +52,8 @@ public class GeneralRefactoredMyWorkSpace {
                 .body(payload)
                // .header("X-Api-Key","PMAK-669e05fbc34cd700015b2e98-1942493baefe5b17bfca5bdba4f153eef0")
                // .contentType(ContentType.JSON)
+               // .contentType(ContentType.JSON)
+            
 
                 .when()
                 .post("/workspaces")
