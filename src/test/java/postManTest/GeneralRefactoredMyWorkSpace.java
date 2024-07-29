@@ -36,7 +36,7 @@ public class GeneralRefactoredMyWorkSpace {
     @Test
     public void createWorkSpaceTest(){
 
-
+//payload in json
         String payload= "{\n" +
                 "    \"workspace\": {\n" +
                 "        \"name\": \"my demo  004\",\n" +
