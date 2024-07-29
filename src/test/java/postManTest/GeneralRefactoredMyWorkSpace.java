@@ -54,6 +54,7 @@ public class GeneralRefactoredMyWorkSpace {
                // .contentType(ContentType.JSON)
                // .contentType(ContentType.JSON)
              // .contentType(ContentType.JSON)
+            //delete .contentType(ContentType.JSON)
             
 
                 .when()
