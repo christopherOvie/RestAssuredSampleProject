@@ -31,12 +31,13 @@ public class GeneralRefactoredMyWorkSpace {
 //                           .expectStatusCode(200);
 //
 //        responseSpecification=   responseSpecBuilder.build();
-//
+//  added new changes
 //    }
     @Test
     public void createWorkSpaceTest(){
 
 //payload in json
+        //payload in json
         String payload= "{\n" +
                 "    \"workspace\": {\n" +
                 "        \"name\": \"my demo  004\",\n" +
